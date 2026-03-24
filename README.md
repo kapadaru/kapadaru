@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kapadaru
 - 👀 I’m interested in Programmming world
-- 🌱 I’m currently learning html & css
+- 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on website building
 - 📫 How to reach me: call me
 - 😄 Pronouns: He/Him
